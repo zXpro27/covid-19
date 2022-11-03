@@ -1,8 +1,6 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/zXpro27/covid-19)
-
-  <br />
   <br />
 
   <h2 align="center">COVID-19 - Corona Website</h2>
@@ -15,7 +13,7 @@
 
 ### Demo Screeshots
 
-![COVID-19 Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![COVID-19 Desktop Demo](./readme-images/home.png "Desktop Demo")
 
 
 ### License
